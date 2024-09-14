@@ -27,27 +27,27 @@ Builds the app for production to the `build` folder.\
 
 ## Overview
 
-This ReactJS project integrates Google Maps with custom markers and clustering functionality. The `App` component renders a `GoogleMap` with custom `MarkerPin` and `Donut` components for displaying markers and clusters respectively. The map's default center and zoom level are set based on data from a local JSON file (`ChargerData.json`).
+This ReactJS project integrates Google Maps with custom markers and clustering functionality. The `App` component renders a `GoogleMap` with custom `MarkerPin` and `Donut` components for displaying markers and clusters respectively. The map's default center and zoom level are set based on data from a local JSON file (`Data.json`).
 
 ## Features
 
 - **Google Maps Integration**: Utilizes the Google Maps API to render maps in the application.
 - **Custom Markers**: Displays markers on the map using the `MarkerPin` component.
 - **Clustering**: Groups nearby markers into clusters using the `Donut` component to enhance map readability.
-- **Dynamic Data**: Loads map data from a local JSON file (`ChargerData.json`).
+- **Dynamic Data**: Loads map data from a local JSON file (`Data.json`).
 
 ## Setup and Installation
 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://gitlab.tekmindz.com/engineering/i7/i7.git
+   git clone https://github.com/ankitmudia/google-map.git
    cd 
 
 2. **Checkout to branch**
    
    ```bash
-   checkout to branch - ReactJS
+   checkout to branch - master
 
 3. **Starting the Application**
    ```bash
