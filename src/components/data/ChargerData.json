@@ -1,0 +1,477 @@
+[
+    {
+        "id": 0,
+        "lat": 28.4952561,
+        "lng": 77.4017947,
+        "enterprisedata": {
+            "siteId": 5939,
+            "enterpriseName": "EnterpriseeFive"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "TMZDELTA066",
+            "status": "Offline",
+            "siteId": "LEU01",
+            "siteName": "NPX Tower",
+            "primarySiteId": 5939
+        },
+        "enterprisecolor": {
+            "enterprisename": "EnterpriseeFive",
+            "color": "#c9ff00"
+        },
+        "search": false
+    },
+    {
+        "id": 1,
+        "lat": 28.6001554,
+        "lng": 77.22695879999999,
+        "enterprisedata": {
+            "siteId": 6013,
+            "enterpriseName": "EnterpriseeFive"
+        },
+        "offline": 0,
+        "busy": 0,
+        "available": 1,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "TMZDELTA016",
+            "status": "Available",
+            "siteId": "LEU04",
+            "siteName": "Khan Market",
+            "primarySiteId": 6013
+        },
+        "enterprisecolor": {
+            "enterprisename": "EnterpriseeFive",
+            "color": "#c9ff00"
+        },
+        "search": false
+    },
+    {
+        "id": 2,
+        "lat": 28.5773799,
+        "lng": 77.31449359999999,
+        "enterprisedata": {
+            "siteId": 6002,
+            "enterpriseName": "EnterpriseeFive"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "TMZDELTA015",
+            "status": "Offline",
+            "siteId": "LEU02",
+            "siteName": "Electronic City",
+            "primarySiteId": 6002
+        },
+        "enterprisecolor": {
+            "enterprisename": "EnterpriseeFive",
+            "color": "#c9ff00"
+        },
+        "search": false
+    },
+    {
+        "id": 3,
+        "lat": 28.6001554,
+        "lng": 77.22695879999999,
+        "enterprisedata": {
+            "siteId": 6013,
+            "enterpriseName": "EnterpriseeFive"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "TMZDELTA014",
+            "status": "Offline",
+            "siteId": "LEU04",
+            "siteName": "Khan Market",
+            "primarySiteId": 6013
+        },
+        "enterprisecolor": {
+            "enterprisename": "EnterpriseeFive",
+            "color": "#c9ff00"
+        },
+        "search": false
+    },
+    {
+        "id": 4,
+        "lat": 28.6006383,
+        "lng": 77.225247,
+        "enterprisedata": {
+            "siteId": 6016,
+            "enterpriseName": "EnterpriseeFive"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "D02210442490016",
+            "status": "Offline",
+            "siteId": "LEU05",
+            "siteName": "Prithviraj Market",
+            "primarySiteId": 6016
+        },
+        "enterprisecolor": {
+            "enterprisename": "EnterpriseeFive",
+            "color": "#c9ff00"
+        },
+        "search": false
+    },
+    {
+        "id": 5,
+        "lat": 28.98920679999999,
+        "lng": 77.70136269999999,
+        "enterprisedata": {
+            "siteId": 6182,
+            "enterpriseName": "TEM ENTERPRISE"
+        },
+        "offline": 0,
+        "busy": 1,
+        "available": 1,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "PP12",
+            "status": "Available",
+            "siteId": "ST1",
+            "siteName": "Vashu Site",
+            "primarySiteId": 6182
+        },
+        "enterprisecolor": {
+            "enterprisename": "TEM ENTERPRISE",
+            "color": "#138f00"
+        },
+        "search": false
+    },
+    {
+        "id": 6,
+        "lat": 28.6083327,
+        "lng": 77.4536535,
+        "enterprisedata": {
+            "siteId": 6190,
+            "enterpriseName": "TEM ENTERPRISE"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "DPDPDPDPDPDPDPDPDP19",
+            "status": "Offline",
+            "siteId": "ST4",
+            "siteName": "EK Murti Site EK Murti Site EK Murti Sit",
+            "primarySiteId": 6190
+        },
+        "enterprisecolor": {
+            "enterprisename": "TEM ENTERPRISE",
+            "color": "#138f00"
+        },
+        "search": false
+    },
+    {
+        "id": 7,
+        "lat": 28.4480827,
+        "lng": 77.4726137,
+        "enterprisedata": {
+            "siteId": 6186,
+            "enterpriseName": "Dribble"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "GIR19",
+            "status": "Offline",
+            "siteId": "1",
+            "siteName": "Test site Reconc",
+            "primarySiteId": 6186
+        },
+        "enterprisecolor": {
+            "enterprisename": "Dribble",
+            "color": "#ff6700"
+        },
+        "search": false
+    },
+    {
+        "id": 8,
+        "lat": 28.4480827,
+        "lng": 77.4726137,
+        "enterprisedata": {
+            "siteId": 6186,
+            "enterpriseName": "Dribble"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "Test1",
+            "status": "Offline",
+            "siteId": "1",
+            "siteName": "Test site Reconc",
+            "primarySiteId": 6186
+        },
+        "enterprisecolor": {
+            "enterprisename": "Dribble",
+            "color": "#ff6700"
+        },
+        "search": false
+    },
+    {
+        "id": 9,
+        "lat": 28.4480827,
+        "lng": 77.4726137,
+        "enterprisedata": {
+            "siteId": 6186,
+            "enterpriseName": "Dribble"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "fger5",
+            "status": "Offline",
+            "siteId": "1",
+            "siteName": "Test site Reconc",
+            "primarySiteId": 6186
+        },
+        "enterprisecolor": {
+            "enterprisename": "Dribble",
+            "color": "#ff6700"
+        },
+        "search": false
+    },
+    {
+        "id": 10,
+        "lat": 28.4952561,
+        "lng": 77.4017947,
+        "enterprisedata": {
+            "siteId": 5939,
+            "enterpriseName": "EnterpriseeFive"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "TESTPORT",
+            "status": "Offline",
+            "siteId": "LEU01",
+            "siteName": "NPX Tower",
+            "primarySiteId": 5939
+        },
+        "enterprisecolor": {
+            "enterprisename": "EnterpriseeFive",
+            "color": "#c9ff00"
+        },
+        "search": false
+    },
+    {
+        "id": 11,
+        "lat": 28.6001554,
+        "lng": 77.22695879999999,
+        "enterprisedata": {
+            "siteId": 6013,
+            "enterpriseName": "EnterpriseeFive"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "TEstport2",
+            "status": "Offline",
+            "siteId": "LEU04",
+            "siteName": "Khan Market",
+            "primarySiteId": 6013
+        },
+        "enterprisecolor": {
+            "enterprisename": "EnterpriseeFive",
+            "color": "#c9ff00"
+        },
+        "search": false
+    },
+    {
+        "id": 12,
+        "lat": 28.4952561,
+        "lng": 77.4017947,
+        "enterprisedata": {
+            "siteId": 5939,
+            "enterpriseName": "EnterpriseeFive"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "1234",
+            "status": "Offline",
+            "siteId": "LEU01",
+            "siteName": "NPX Tower",
+            "primarySiteId": 5939
+        },
+        "enterprisecolor": {
+            "enterprisename": "EnterpriseeFive",
+            "color": "#c9ff00"
+        },
+        "search": false
+    },
+    {
+        "id": 13,
+        "lat": 28.4480827,
+        "lng": 77.4726137,
+        "enterprisedata": {
+            "siteId": 6186,
+            "enterpriseName": "Dribble"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "test2",
+            "status": "Offline",
+            "siteId": "1",
+            "siteName": "Test site Reconc",
+            "primarySiteId": 6186
+        },
+        "enterprisecolor": {
+            "enterprisename": "Dribble",
+            "color": "#ff6700"
+        },
+        "search": false
+    },
+    {
+        "id": 14,
+        "lat": 28.4480827,
+        "lng": 77.4726137,
+        "enterprisedata": {
+            "siteId": 6367,
+            "enterpriseName": "Dribble"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "CT01",
+            "status": "Offline",
+            "siteId": "103",
+            "siteName": "ST1",
+            "primarySiteId": 6367
+        },
+        "enterprisecolor": {
+            "enterprisename": "Dribble",
+            "color": "#ff6700"
+        },
+        "search": false
+    },
+    {
+        "id": 15,
+        "lat": 28.5870003,
+        "lng": 77.2584625,
+        "enterprisedata": {
+            "siteId": 6376,
+            "enterpriseName": "Charge Circuit"
+        },
+        "offline": 1,
+        "busy": 1,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "TTK88",
+            "status": "Offline",
+            "siteId": "SER44",
+            "siteName": "S khale  khan Delhi",
+            "primarySiteId": 6376
+        },
+        "enterprisecolor": {
+            "enterprisename": "Charge Circuit",
+            "color": "#f21147"
+        },
+        "search": false
+    },
+    {
+        "id": 16,
+        "lat": 28.6061834,
+        "lng": 77.4294003,
+        "enterprisedata": {
+            "siteId": 6379,
+            "enterpriseName": "TEM ENTERPRISE"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "VS21",
+            "status": "Offline",
+            "siteId": "ST2",
+            "siteName": "Gaur City Mall Site",
+            "primarySiteId": 6379
+        },
+        "enterprisecolor": {
+            "enterprisename": "TEM ENTERPRISE",
+            "color": "#138f00"
+        },
+        "search": false
+    },
+    {
+        "id": 17,
+        "lat": 28.6061834,
+        "lng": 77.4294003,
+        "enterprisedata": {
+            "siteId": 6379,
+            "enterpriseName": "TEM ENTERPRISE"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "VS23",
+            "status": "Offline",
+            "siteId": "ST2",
+            "siteName": "Gaur City Mall Site",
+            "primarySiteId": 6379
+        },
+        "enterprisecolor": {
+            "enterprisename": "TEM ENTERPRISE",
+            "color": "#138f00"
+        },
+        "search": false
+    },
+    {
+        "id": 18,
+        "lat": 28.6061834,
+        "lng": 77.4294003,
+        "enterprisedata": {
+            "siteId": 6379,
+            "enterpriseName": "TEM ENTERPRISE"
+        },
+        "offline": 1,
+        "busy": 0,
+        "available": 0,
+        "faulted": 0,
+        "chargerdata": {
+            "deviceId": "VS24",
+            "status": "Offline",
+            "siteId": "ST2",
+            "siteName": "Gaur City Mall Site",
+            "primarySiteId": 6379
+        },
+        "enterprisecolor": {
+            "enterprisename": "TEM ENTERPRISE",
+            "color": "#138f00"
+        },
+        "search": false
+    }
+]
