@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+![Google Map Image](public\GoogleMapExample.PNG?raw=true "Google Map")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
